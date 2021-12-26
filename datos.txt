@@ -1,0 +1,2 @@
+33,jose,biología
+1,victor,informatica
